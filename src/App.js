@@ -5,7 +5,7 @@ import UpdateUser from "./components/UpdateUser";
 function App() {
   return (
     <div>
-      <h1>Добро пожаловать в Context API Demo</h1>
+      <h1>Добро пожаловать в Context</h1>
       <UserProfile />
       <UpdateUser />
     </div>
